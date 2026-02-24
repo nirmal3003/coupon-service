@@ -34,7 +34,7 @@ This allows adding new coupon types without modifying existing code.
 
 #  Coupon Types Implemented
 
-## 1️ Cart-wise Coupon
+## 1 Cart-wise Coupon
 
 Discount applied on entire cart if cart total exceeds threshold.
 
@@ -46,7 +46,7 @@ cart_total > threshold
 
 ---
 
-## 2️ Product-wise Coupon
+## 2 Product-wise Coupon
 
 Discount applied only to specific product in cart.
 
@@ -58,7 +58,7 @@ product exists in cart
 
 ---
 
-## 3️ Buy-X-Get-Y (BxGy)
+## 3 Buy-X-Get-Y (BxGy)
 
 Buy certain products → get some products free.
 
